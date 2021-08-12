@@ -1,0 +1,1 @@
+This projec consists of an amazon tracker, in this tracker you need to create some variables as the emails for the notifications as well as the URL of the product and the maximun price you are willing to pay.
